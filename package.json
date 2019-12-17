@@ -15,8 +15,12 @@
   },
   "dependencies": {
     "gatsby": "^2.18.4",
+    "gatsby-plugin-sass": "^2.1.24",
+    "gatsby-source-graphql": "^2.1.28",
+    "node-sass": "^4.13.0",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "react-flexbox-grid": "^2.1.2"
   },
   "devDependencies": {
     "prettier": "^1.19.1"
